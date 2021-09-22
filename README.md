@@ -1,2 +1,2 @@
 # Leech
-python video downloader
+Youtube video downloader
